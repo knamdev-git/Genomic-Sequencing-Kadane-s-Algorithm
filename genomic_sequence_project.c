@@ -1,8 +1,7 @@
 /*
- * Genomic Sequencing using Kadane's Algorithm
- * This program takes a genomic sequence as input and finds the maximum sum subsequence using Kadane's Algorithm.
- * Input: Genomic sequence (A, C, G, T)
- * Output: Maximum sum of a subsequence
+ -> Genomic Sequencing using Kadane's Algorithm
+ -> This program takes a genomic sequence as input and finds the maximum sum subsequence using Kadane's Algorithm.
+ -> Output: Maximum sum of a subsequence
  */
 #include <stdio.h>
 
